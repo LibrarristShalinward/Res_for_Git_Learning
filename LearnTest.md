@@ -18,5 +18,5 @@ rosdep update
 #test 
 roscore
 分支测试完成
-Kore wa syakaigaku no hon dewa ari masu.
+Kore wa syakaigaku no hon dewa ari masen.
 
